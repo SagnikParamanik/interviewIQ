@@ -8,7 +8,6 @@ import Auth from "./pages/Auth";
 import { setUserData } from "./redux/userSlice";
 import InterviewPage from './pages/InterviewPage';
 import InterviewHistory from "./pages/interviewHistory";
-import pricing from './pages/Pricing';
 import Pricing from "./pages/Pricing";
 import InterviewReport from "./pages/InterviewReport";
 
