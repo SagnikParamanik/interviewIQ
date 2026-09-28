@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 import Auth from "./pages/Auth";
 import { setUserData } from "./redux/userSlice";
 import InterviewPage from './pages/InterviewPage';
-import InterviewHistory from "./pages/interviewHistory";
+import InterviewHistory from "./pages/InterviewHistory.jsx";
 import Pricing from "./pages/Pricing";
 import InterviewReport from "./pages/InterviewReport";
 
